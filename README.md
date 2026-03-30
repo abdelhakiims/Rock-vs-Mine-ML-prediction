@@ -8,9 +8,14 @@ Download the dataset from Kaggle and place it in the /data folder as sonar.csv.
 Project Structure
 
 Rock vs Mine/
+
 ├── data/
+
 │   └── sonar.csv
+
 ├── code.py
+
+
 └── README.md
 
 Requirements
